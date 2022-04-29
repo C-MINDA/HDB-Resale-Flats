@@ -10,3 +10,5 @@ With the above information, the agents would be able to answer the following que
 1. What is the current market trend for HDB resale flats?
 2. Which flat should I recommend to my client?
 3. Should I recommend my client to buy the resale flat now?
+
+Link: https://public.tableau.com/shared/8S22YJBD5?:display_count=n&:origin=viz_share_link
